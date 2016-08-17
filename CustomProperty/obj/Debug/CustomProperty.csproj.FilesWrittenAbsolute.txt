@@ -1,0 +1,5 @@
+/home/nik/projects/tools/CustomProperty/CustomProperty/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nik/projects/tools/CustomProperty/CustomProperty/bin/Debug/CustomProperty.dll.mdb
+/home/nik/projects/tools/CustomProperty/CustomProperty/bin/Debug/CustomProperty.dll
+/home/nik/projects/tools/CustomProperty/CustomProperty/obj/Debug/CustomProperty.dll
+/home/nik/projects/tools/CustomProperty/CustomProperty/obj/Debug/CustomProperty.dll.mdb

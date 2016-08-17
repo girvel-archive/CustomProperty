@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="CustomProperty/CustomProperty.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomProperty/Generic/Property.cs">
+    <Files>
+      <File FileName="CustomProperty/Property.cs" Line="5" Column="5" />
+      <File FileName="CustomProperty/Generic/Property.cs" Line="7" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
