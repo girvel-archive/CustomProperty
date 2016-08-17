@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace CustomProperty.Generic
+namespace CustomProperty.Dynamic
 {
     [Serializable]
-    public class Property<T>
+    public class Property
     {
-        public delegate T Accessor();
-        public delegate void Mutator(T value);
+        public delegate dynamic Accessor();
+        public delegate void Mutator(dynamic value);
 
         public Accessor Get { get; set; }
         public Mutator Set { get; set; }

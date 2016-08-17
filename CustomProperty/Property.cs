@@ -2,6 +2,7 @@
 
 namespace CustomProperty
 {
+    [Serializable]
     public class Property
     {
         public delegate object Accessor();

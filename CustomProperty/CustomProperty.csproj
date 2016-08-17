@@ -34,9 +34,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Property.cs" />
     <Compile Include="Generic\Property.cs" />
+    <Compile Include="Dynamic\Property.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <Folder Include="Generic\" />
+    <Folder Include="Dynamic\" />
   </ItemGroup>
 </Project>
